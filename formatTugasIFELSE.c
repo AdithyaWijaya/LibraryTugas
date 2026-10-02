@@ -1,11 +1,11 @@
-// 1. Ina memiliki sebuah toko yang menjual tiga jenis barang: tas, sepatu, dan dompet. Harga setiap barang adalah: Tas  75.000, Sepatu 120000, Dompet 50000 Jika total belanja lebih dari 100000 pembeli mendapat diskon 5%.
-// Jika total belanja lebih dari 300000, maka pembeli mendapatkan diskon 15%, dibawah 100.000 tidak dapat diskon.
-
 #include <stdio.h>
-#include "namaku.c"
 
 int main() {
-    namaku();
+    printf("===============================\n");
+    printf("I Gede Adithya Wijaya, XI.4, 6\n");
+    printf("===============================\n");
+    printf("\n");
+
     int tas, sepatu, dompet, totalBelanja, hargaAfterDiskon;
     float diskon;
 

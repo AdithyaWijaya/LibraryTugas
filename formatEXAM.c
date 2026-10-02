@@ -1,10 +1,13 @@
 // Volume Kerucut
 
 #include <stdio.h>
-#include "namaku.c"
 
 int main () {
-    namaku();
+    printf("===============================\n");
+    printf("I Gede Adithya Wijaya, XI.4, 6\n");
+    printf("===============================\n");
+    printf("\n");
+
     float r, t, v;
 
     printf("-Algoritma menghitung Volume Kerucut-\n");
