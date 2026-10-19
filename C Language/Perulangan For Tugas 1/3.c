@@ -1,5 +1,3 @@
-//Buatkan Program Menampilkan Hitung Mundur sejumlah n, dari n sampai 1
-
 #include <stdio.h>
 #include "namaku.c"
 
@@ -14,5 +12,5 @@ int main() {
     for (i=n;i>=1;i--) {
         printf("%d\n", i);
     }
-
+    return 0;
 }
