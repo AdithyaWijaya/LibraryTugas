@@ -11,10 +11,9 @@ int main() {
 
     for (i=1; i<=n; i+=1) {
         printf("%d\n", i);
+        sum +=i;
     }
-
-    sum +=i;
-    printf("%d\n", sum);
-    return 0;
     
+    printf("Hasil penjumlahan adalah: %d\n", sum);
+    return 0;
 }
