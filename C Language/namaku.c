@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int namaku() {
+    printf("Soal N\n");
     printf("===============================\n");
     printf("I Gede Adithya Wijaya, XI.4, 6\n");
     printf("===============================\n");
